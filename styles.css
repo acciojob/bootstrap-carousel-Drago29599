@@ -1,1 +1,39 @@
 /* Do not add any css, this is a bootstrap only assignment  */
+ .carousel {
+            background-color: #f5f5f5;
+        }
+
+        .carousel-inner {
+            text-align: center;
+        }
+
+        .carousel-control {
+            font-size: 40px;
+            background: none;
+        }
+
+        .carousel-control.left,
+        .carousel-control.right {
+            background: none;
+        }
+
+        /* Add your custom styles for each slide here */
+        .first-slide {
+            background-color: #3498db;
+        }
+
+        .second-slide {
+            background-color: #e74c3c;
+        }
+
+        .third-slide {
+            background-color: #2ecc71;
+        }
+
+        .fourth-slide {
+            background-color: #f1c40f;
+        }
+
+        .fifth-slide {
+            background-color: #9b59b6;
+        }
